@@ -10,7 +10,7 @@ To win, you will need to match the TMNT score to Shredder's random number. You l
 
 The game will restart once you win or lose.Once a new game begins, the player should see a new random number and all the TMNTs will have four new hidden values. 
 
-Click [here](https://buchananc.github.io/unit-4-game/) to play the completed assignment!
+
 
 ## Built With
 HTML5
